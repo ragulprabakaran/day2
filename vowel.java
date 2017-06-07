@@ -22,7 +22,7 @@ public class HelloWorld
    
    else
     
-    System.out.println("The given character is constant");
+    System.out.println("The given character is consonant");
 
   }
 
